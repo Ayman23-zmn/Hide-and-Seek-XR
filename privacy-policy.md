@@ -1,6 +1,6 @@
 # Privacy Policy for Hide and Seek XR
 
-**Last Updated:** [February 2nd, 2025]
+**Last Updated:** [April 15th, 2025]
 
 Hide and Seek XR respects your privacy. This policy explains what data we collect and how we use it.
 
