@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("DollyCMSCommonMCDSIconDollarSignCounterclockwiseArrowOutline.react",["MCDSIcon.react","MCDSIconDollarSignCounterclockwiseArrowOutline.svg.react","react"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||d("react");function a(a){var b=a.display;a=babelHelpers.objectWithoutPropertiesLoose(a,["display"]);return i.jsx(c("MCDSIcon.react"),babelHelpers["extends"]({icon:c("MCDSIconDollarSignCounterclockwiseArrowOutline.svg.react"),isInline:b==="inline-block"},a))}a.displayName=a.name+" [from "+f.id+"]";b=a;g["default"]=b}),98);
