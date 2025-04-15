@@ -1,6 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("DollySearchResultTabFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("1984");b=d("FalcoLoggerInternal").create("dolly__search__result__tab",a);e=b;g["default"]=e}),98);
-__d("DollySearchResultTabEvent.log",["DollyEventLoggerInternal","DollySearchResultTabFalcoEvent","identityFunction"],(function(a,b,c,d,e,f,g){"use strict";a=d("DollyEventLoggerInternal").create({convertToHiveData:c("identityFunction"),hiveFalcoLogger:c("DollySearchResultTabFalcoEvent")});g.DollySearchResultTabEvent=a}),98);
-__d("DollySearchSeeAllResultsClickFalcoEvent",["FalcoLoggerInternal","getFalcoLogPolicy_DO_NOT_USE"],(function(a,b,c,d,e,f,g){"use strict";a=c("getFalcoLogPolicy_DO_NOT_USE")("3603");b=d("FalcoLoggerInternal").create("dolly__search__see_all_results__click",a);e=b;g["default"]=e}),98);
-__d("DollySearchSeeAllResultsClickEvent.log",["DollyEventLoggerInternal","DollySearchSeeAllResultsClickFalcoEvent","identityFunction"],(function(a,b,c,d,e,f,g){"use strict";a=d("DollyEventLoggerInternal").create({convertToHiveData:c("identityFunction"),hiveFalcoLogger:c("DollySearchSeeAllResultsClickFalcoEvent")});g.DollySearchSeeAllResultsClickEvent=a}),98);
