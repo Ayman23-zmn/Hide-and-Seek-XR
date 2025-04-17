@@ -1,6 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("DollyBlogViewRootQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="9312508262192616"}),null);
-__d("DollyBlogViewRootQuery$Parameters",["DollyBlogViewRootQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("DollyBlogViewRootQuery_facebookRelayOperation"),metadata:{},name:"DollyBlogViewRootQuery",operationKind:"query",text:null}};e.exports=a}),null);
-__d("DollyQuestBlogLocalFilterType",["$InternalEnum"],(function(a,b,c,d,e,f){a=b("$InternalEnum")({ALL_LOCALES:"all_locales",LOCALE_SPECIFIC:"locale_specific"});c=a;f["default"]=c}),66);
-__d("DollyBlogViewEntrypoint.entrypoint",["DollyBlogViewRootQuery$Parameters","JSResourceForInteraction","buildDollyRoute.entrypoint","gkx"],(function(a,b,c,d,e,f,g){"use strict";a=c("JSResourceForInteraction")("DollyBlogViewRoot.react").__setRef("DollyBlogViewEntrypoint.entrypoint");b=c("buildDollyRoute.entrypoint")(a,function(a){var b=a.routeParams;a=a.routeProps;var d=b.locale;b=b.page;a=a.localeFilter;a=a==="locale_specific";var e=c("gkx")("12035");return{queries:{DollyBlogViewRootQueryRef:{parameters:c("DollyBlogViewRootQuery$Parameters"),variables:{locale_specific:a,page:(b=b)!=null?b:1,use_link_paging:e}}},extraProps:{locale:d,localeSpecific:a}}});g["default"]=b}),98);
